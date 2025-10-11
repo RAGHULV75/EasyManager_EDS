@@ -1,0 +1,11 @@
+{
+  "latestVersionCode": 1,
+  "latestVersionName": "1.9",
+  "apkUrl": "https://github.com/your-username/your-repo/releases/download/v1.9/app-release-v1.9.apk",
+  "changelog": [
+    "Improved registration dialog with eye toggle",
+    "Added auto-update mechanism",
+    "Fixed crash on startup for Android 13+",
+    "UI polish for settings screen"
+  ]
+}
