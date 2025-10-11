@@ -1,7 +1,7 @@
 {
   "latestVersionCode": 9,
   "latestVersionName": "9",
-  "apkUrl": "https://github.com/RAGHULV75/EasyManager_EDS/blob/ea20cf2092fec14b83d2e88f6ef98b700ab15960/release/app-release.apk",
+  "apkUrl": "https://github.com/RAGHULV75/EasyManager_EDS/blob/main/release/app-release.apk",
   "changelog": [
     "Improved registration dialog with eye toggle",
     "Added auto-update mechanism",
