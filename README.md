@@ -1,0 +1,2 @@
+# EasyManager_EDS
+Release
