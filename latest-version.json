@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 2,
-  "latestVersionName": "2.0",
+  "latestVersionCode": 1,
+  "latestVersionName": "1.9",
   "apkUrl": "https://github.com/RAGHULV75/EasyManager_EDS/blob/main/release/app-release.apk",
   "changelog": [
     "Improved registration dialog with eye toggle",
