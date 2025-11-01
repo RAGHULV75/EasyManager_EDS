@@ -1,7 +1,7 @@
 {
   "latestVersionCode": 2,
   "latestVersionName": "2.0",
-  "apkUrl": "https://github.com/RAGHULV75/EasyManager_EDS/blob/main/release/app-release.apk",
+  "apkUrl": "https://github.com/RAGHULV75/EasyManager_EDS/releases/download/EDS_Manager/app-release.apk",
   "changelog": [
     "Improved registration dialog with eye toggle",
     "Added auto-update mechanism",
